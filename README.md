@@ -57,7 +57,7 @@ For view component, gem is available, but I often use just partial.
 ## lint
 * rubocop: lint ruby
 * haml-lint: lint haml
-* overcommit: run lit by git hook
+* overcommit: run lint by git hook
 
 ## error check
 * bullet: N+1 check
